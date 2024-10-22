@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">A passionate full stack developer from Atlanta</h3>
+<h1 align="center">Hi 👋, I'm Justin!</h1>
+<h3 align="center">A passionate Programmer, Fullstack developer, and DevOps Engineer from Atlanta.</h3>
+
+- 📫 How to reach me **justincperlman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
